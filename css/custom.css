@@ -1,0 +1,20 @@
+#value{
+    position: relative;
+    left: 327px;
+    top: 10px;
+}
+.caroselsize{
+    height:500px;
+}
+
+@media screen and (max-width: 500px) {
+ #value{
+    left: 97px;
+    top: 10px;
+ }
+  }
+  @media screen and (max-width: 500px) {
+    .caroselsize{
+        height:250px;
+    }
+     }
